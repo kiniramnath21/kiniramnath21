@@ -1,60 +1,54 @@
 <h1 align="center">Hi, I'm K Ramanath 👋</h1>
-<h3 align="center">Information Science Student | ML & Cloud Enthusiast | C# + Python Developer</h3>
+<h3 align="center">Information Science & Engineering Student | ML & Cloud Enthusiast</h3>
 
 ---
 
-### 🧑‍💻 About Me
+### 👨‍💻 About Me
 
-- 🎓 Pursuing B.E. in **Information Science and Engineering**
-- 🧠 Interested in **Machine Learning**, **Data Science**, and **Cloud Computing**
-- 🔬 Currently working on:
-  - Heart Disease Risk Prediction using ML.NET in C#
+- 🎓 Pursuing B.E. in Information Science at Nitte Meenakshi Institute of Technology (2022–2026)
+- ❤️ Passionate about Machine Learning, Software Development, and Cloud Computing
+- 🔧 Strong in C#, Python, and Java
+- 📌 Currently working on:
+  - Heart Disease Prediction using ML.NET
   - Ice Cream Sales Forecasting using Streamlit
-- 💡 Always curious to learn and build real-world tech solutions
-- 📫 Reach me at: **kiniramnath21@gmail.com**
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Projects
 
-- ❤️ [Heart Disease Prediction](https://github.com/kiniramnath21/heart_disease_prediction)  
-  Predicts heart disease risk using a logistic regression model built from scratch in C# and enhanced using ML.NET.
+#### 🧊 [Ice Cream Sales Predictor](https://github.com/kiniramnath21/ice-cream-sales-predictor)  
+A Python + Streamlit web app that forecasts ice cream sales based on seasonal and weather inputs.  
+🔗 [Live Demo](https://kiniramnath21-ice-cream-sales-predictor.streamlit.app/)
 
-- 🍦 [Ice Cream Sales Predictor](https://github.com/kiniramnath21/ice-cream-sales-predictor)  
-  A Python + Streamlit web app to forecast ice cream sales based on seasonal and weather-based input features.
-
----
-
-### 🧰 Tech Stack
-
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)  
-![ML.NET](https://img.shields.io/badge/-ML.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+#### ❤️ [Heart Disease Prediction](https://github.com/kiniramnath21/heart_disease_prediction)  
+A C# project with logistic regression implemented from scratch to predict heart disease using health survey data. Includes CSV parsing, math ops, and BMI vs Disease visualization.
 
 ---
 
-### 📊 GitHub Stats
+### 🧰 Skills
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kiniramnath21&show_icons=true&theme=radical" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiniramnath21&layout=compact&theme=radical" width="49%">
-</p>
-
----
-
-### 📫 Let's Connect
-
-- 💼 [LinkedIn](https://linkedin.com/in/kiniramnath21)
-- 📧 Email: kiniramnath21@gmail.com
+- **Languages:** C#, Python, Java, C/C++
+- **ML Tools:** ML.NET, Scikit-learn, Pandas, NumPy
+- **Visualization:** Matplotlib, Seaborn, OxyPlot
+- **Dev Tools:** Git, Visual Studio, Streamlit, Flask, Google Colab
+- **Cloud:** AWS (beginner), GCP (beginner)
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kiniramnath21&label=Profile%20Views&color=0e75b6&style=flat" alt="kiniramnath21" />
-</p>
+### 🎓 Education
+
+**Nitte Meenakshi Institute of Technology, Bengaluru**  
+*B.E. in Information Science and Engineering*  
+📅 2022–2026 | 📊 CGPA: 9.07
+
+---
+
+### 📫 Contact
+
+📍 Bengaluru, India  
+📧 kiniramnath21@gmail.com  
+📞 +91 63637 93948  
+🔗 [LinkedIn](https://linkedin.com/in/k-ramanath)  
+💻 [LeetCode](https://leetcode.com/u/kiniramnath21/)
+
+---
