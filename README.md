@@ -7,7 +7,7 @@
 
 - 🎓 Pursuing B.E. in Information Science at Nitte Meenakshi Institute of Technology (2022–2026)
 - ❤️ Passionate about Machine Learning, Software Development, and Cloud Computing
-- 🔧 Strong in C#, Python, and Java
+- 🔧 Strong in Java, C#, and Python
 - 📌 Currently working on:
   - Heart Disease Prediction using ML.NET
   - Ice Cream Sales Forecasting using Streamlit
@@ -16,9 +16,8 @@
 
 ### 🚀 Projects
 
-#### 🧊 [Ice Cream Sales Predictor](https://github.com/kiniramnath21/ice-cream-sales-predictor)  
-A Python + Streamlit web app that forecasts ice cream sales based on seasonal and weather inputs.  
-🔗 [Live Demo](https://kiniramnath21-ice-cream-sales-predictor.streamlit.app/)
+#### 🧊 [Ice Cream Sales Predictor](https://github.com/kiniramnath21/ice-cream-sales-predictor) · [Live Demo](https://kiniramnath21-ice-cream-sales-predictor.streamlit.app/)  
+A Python + Streamlit web app that forecasts ice cream sales based on seasonal and weather inputs.
 
 #### ❤️ [Heart Disease Prediction](https://github.com/kiniramnath21/heart_disease_prediction)  
 A C# project with logistic regression implemented from scratch to predict heart disease using health survey data. Includes CSV parsing, math ops, and BMI vs Disease visualization.
@@ -27,7 +26,7 @@ A C# project with logistic regression implemented from scratch to predict heart 
 
 ### 🧰 Skills
 
-- **Languages:** C#, Python, Java, C/C++
+- **Languages:** Java, C#, Python, C/C++
 - **ML Tools:** ML.NET, Scikit-learn, Pandas, NumPy
 - **Visualization:** Matplotlib, Seaborn, OxyPlot
 - **Dev Tools:** Git, Visual Studio, Streamlit, Flask, Google Colab
@@ -52,3 +51,5 @@ A C# project with logistic regression implemented from scratch to predict heart 
 💻 [LeetCode](https://leetcode.com/u/kiniramnath21/)
 
 ---
+
+💬 I’m always open to collaborating on interesting projects or learning opportunities. Let’s connect!
