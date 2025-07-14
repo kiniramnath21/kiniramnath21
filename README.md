@@ -1,29 +1,27 @@
-<h1 align="center">Hey there 👋, I'm K Ramanath</h1>
-<h3 align="center">Information Science and Engineering Student | ML Enthusiast | Cloud Explorer</h3>
+<h1 align="center">Hi, I'm K Ramanath 👋</h1>
+<h3 align="center">Information Science Student | ML & Cloud Enthusiast | C# + Python Developer</h3>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🎓 I'm currently pursuing **B.E. in Information Science and Engineering**
-- 🌱 I'm learning **ML.NET**, **Streamlit**, and **Cloud Fundamentals**
-- 🔭 I'm working on a **Heart Disease Prediction project using C#**
-- 👨‍💻 All my projects are available at [github.com/kiniramnath21](https://github.com/kiniramnath21)
-- 📫 How to reach me: **kiniramnath21@gmail.com**
-- 💬 Ask me about anything related to **C# ML**, **Python ML**, or **deployment**
+- 🎓 Pursuing B.E. in **Information Science and Engineering**
+- 🧠 Interested in **Machine Learning**, **Data Science**, and **Cloud Computing**
+- 🔬 Currently working on:
+  - Heart Disease Risk Prediction using ML.NET in C#
+  - Ice Cream Sales Forecasting using Streamlit
+- 💡 Always curious to learn and build real-world tech solutions
+- 📫 Reach me at: **kiniramnath21@gmail.com**
 
 ---
 
-### 🚀 Projects
+### 🚀 Featured Projects
 
-- ❤️ [Heart Disease Prediction](https://github.com/kiniramnath21/heart-disease-prediction)  
-  Predicting heart disease using Logistic Regression with ML.NET in C#
+- ❤️ [Heart Disease Prediction](https://github.com/kiniramnath21/heart_disease_prediction)  
+  Predicts heart disease risk using a logistic regression model built from scratch in C# and enhanced using ML.NET.
 
-- 🍨 [Ice Cream Sales Forecast](https://github.com/kiniramnath21/icecream-sales-prediction)  
-  Simple Streamlit app to predict sales based on weather
-
-- 📊 [Logistic Regression from Scratch](https://github.com/kiniramnath21/Logistic-Regression)  
-  C# implementation of multi-class logistic regression + evaluation metrics
+- 🍦 [Ice Cream Sales Predictor](https://github.com/kiniramnath21/ice-cream-sales-predictor)  
+  A Python + Streamlit web app to forecast ice cream sales based on seasonal and weather-based input features.
 
 ---
 
@@ -34,10 +32,10 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)  
 ![ML.NET](https://img.shields.io/badge/-ML.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
@@ -53,7 +51,7 @@
 ### 📫 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/kiniramnath21)
-- 📧 kiniramnath21@gmail.com
+- 📧 Email: kiniramnath21@gmail.com
 
 ---
 
