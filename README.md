@@ -22,6 +22,9 @@ A Python + Streamlit web app that forecasts ice cream sales based on seasonal an
 #### ❤️ [Heart Disease Prediction](https://github.com/kiniramnath21/heart_disease_prediction)  
 A C# project with logistic regression implemented from scratch to predict heart disease using health survey data. Includes CSV parsing, math ops, and BMI vs Disease visualization.
 
+#### 📊 [Student Performance Tracker](https://github.com/kiniramnath21/Student-Performance-Tracker-Java)  
+A Java console application to manage students, courses, enrollments, and grades. Implements MySQL database integration for CRUD operations and generates detailed student performance reports.
+
 ---
 
 ### 🧰 Skills
