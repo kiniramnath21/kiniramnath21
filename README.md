@@ -11,6 +11,17 @@
 - 📌 Currently working on:
   - Heart Disease Prediction using ML.NET
   - Ice Cream Sales Forecasting using Streamlit
+  - Student Performance Tracker in Java
+  - Netflix Show Clustering with Python & AWS
+  - Dog Breed Classification using ML models in Python
+
+---
+
+### 🌱 Currently Learning / Exploring
+- Deep Learning with TensorFlow and PyTorch
+- Cloud-based ML deployments and AWS services
+- Data Visualization best practices
+- Large Language Models (LLMs) and NLP applications
 
 ---
 
@@ -25,15 +36,45 @@ A C# project with logistic regression implemented from scratch to predict heart 
 #### 📊 [Student Performance Tracker](https://github.com/kiniramnath21/Student-Performance-Tracker-Java)  
 A Java console application to manage students, courses, enrollments, and grades. Implements MySQL database integration for CRUD operations and generates detailed student performance reports.
 
+#### 🎬 [Netflix Show Clustering](https://github.com/kiniramnath21/Netflix_Show_Clustering)  
+Python project performing K-Means clustering on Netflix metadata (genres, ratings, release year). Integrated PCA for visualization and built a Streamlit dashboard with AWS S3 dataset access.
+
+#### 🐶 [Dog Breed Classification](https://github.com/kiniramnath21/Dog-Breed-Classification)  
+Image classification project using Python and ML models to accurately identify dog breeds.
+
 ---
 
 ### 🧰 Skills
 
-- **Languages:** Java, C#, Python, C/C++
-- **ML Tools:** ML.NET, Scikit-learn, Pandas, NumPy
-- **Visualization:** Matplotlib, Seaborn, OxyPlot
-- **Dev Tools:** Git, Visual Studio, Streamlit, Flask, Google Colab
-- **Cloud:** AWS (beginner), GCP (beginner)
+- **Languages:** Java, Python, C#  
+- **Machine Learning & AI:** Regression, Classification, Gradient Descent, Deep Learning (basics), Transfer Learning, ML.NET, Scikit-learn, Pandas, NumPy  
+- **Data Visualization:** Matplotlib, Seaborn, OxyPlot  
+- **Cloud & Tools:** AWS, Google Cloud, Git, GitHub, Jupyter Notebook, VS Code, Streamlit, Flask  
+- **Core CS:** DSA, OOP, DBMS, Operating Systems, Computer Networks  
+
+---
+
+### 🏆 Certifications & Achievements
+- Complete AI/ML & Data Science Bootcamp (Udemy)
+- AWS Academy Cloud Security Foundations
+- Google Cloud Computing Foundations
+- AI with Real-Time Applications Internship (Aqmenz Automation Pvt. Ltd.)
+
+---
+
+### 📊 GitHub Stats
+
+![K Ramanath's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiniramnath21&show_icons=true&theme=radical)
+
+---
+
+### 🛠️ Skill Badges
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F61?style=for-the-badge)
+![Data Science](https://img.shields.io/badge/Data%20Science-4ABBF3?style=for-the-badge)
 
 ---
 
