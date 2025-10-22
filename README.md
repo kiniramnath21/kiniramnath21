@@ -62,22 +62,6 @@ Image classification project using Python and ML models to accurately identify d
 
 ---
 
-### 📊 GitHub Stats
-
-![K Ramanath's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiniramnath21&show_icons=true&theme=radical)
-
----
-
-### 🛠️ Skill Badges
-
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F61?style=for-the-badge)
-![Data Science](https://img.shields.io/badge/Data%20Science-4ABBF3?style=for-the-badge)
-
----
-
 ### 🎓 Education
 
 **Nitte Meenakshi Institute of Technology, Bengaluru**  
