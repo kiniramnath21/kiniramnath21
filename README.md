@@ -28,16 +28,16 @@
 ### 🚀 Projects
 
 #### 🧊 [Ice Cream Sales Predictor](https://github.com/kiniramnath21/ice-cream-sales-predictor) · [Live Demo](https://kiniramnath21-ice-cream-sales-predictor.streamlit.app/)  
-A Python + Streamlit web app that forecasts ice cream sales based on seasonal and weather inputs.
+Developed a Python + Streamlit web app that forecasts ice cream sales based on temperature and seasonal trends. Includes regression modeling, visualization, and interactive UI.
 
 #### ❤️ [Heart Disease Prediction](https://github.com/kiniramnath21/heart_disease_prediction)  
-A C# project with logistic regression implemented from scratch to predict heart disease using health survey data. Includes CSV parsing, math ops, and BMI vs Disease visualization.
+Built a C# logistic regression model from scratch to predict heart disease using health survey data. Implemented CSV parsing, gradient descent, and BMI vs. disease risk visualization.
 
 #### 📊 [Student Performance Tracker](https://github.com/kiniramnath21/Student-Performance-Tracker-Java)  
-A Java console application to manage students, courses, enrollments, and grades. Implements MySQL database integration for CRUD operations and generates detailed student performance reports.
+Created a Java console-based system to manage students, courses, and grades. Integrated MySQL for persistent storage, supporting full CRUD operations and automated performance reports.
 
 #### 🎬 [Netflix Show Clustering](https://github.com/kiniramnath21/Netflix_Show_Clustering)  
-Unsupervised Machine Learning project using K-Means clustering on Netflix metadata (genres, ratings, and release year). Integrated PCA for visualization and built an interactive Streamlit dashboard, deployed on AWS EC2 with S3-based dataset access.
+Implemented K-Means clustering on Netflix metadata (genres, ratings, and release year) for unsupervised pattern discovery. Integrated PCA visualization and built an interactive Streamlit dashboard, deployed on AWS EC2 with S3 dataset access.
 
 #### 🐶 [Dog Breed Classification](https://github.com/kiniramnath21/Dog-Breed-Classification)  
 Image classification project using Python and ML models to accurately identify dog breeds.
