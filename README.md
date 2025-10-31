@@ -37,7 +37,7 @@ A C# project with logistic regression implemented from scratch to predict heart 
 A Java console application to manage students, courses, enrollments, and grades. Implements MySQL database integration for CRUD operations and generates detailed student performance reports.
 
 #### 🎬 [Netflix Show Clustering](https://github.com/kiniramnath21/Netflix_Show_Clustering)  
-Python project performing K-Means clustering on Netflix metadata (genres, ratings, release year). Integrated PCA for visualization and built a Streamlit dashboard with AWS S3 dataset access.
+Unsupervised Machine Learning project using K-Means clustering on Netflix metadata (genres, ratings, and release year). Integrated PCA for visualization and built an interactive Streamlit dashboard, deployed on AWS EC2 with S3-based dataset access.
 
 #### 🐶 [Dog Breed Classification](https://github.com/kiniramnath21/Dog-Breed-Classification)  
 Image classification project using Python and ML models to accurately identify dog breeds.
