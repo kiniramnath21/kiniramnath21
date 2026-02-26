@@ -66,7 +66,7 @@ Image classification project using Python and ML models to accurately identify d
 
 **Nitte Meenakshi Institute of Technology, Bengaluru**  
 *B.E. in Information Science and Engineering*  
-📅 2022–2026 | 📊 CGPA: 9.07
+📅 2022–2026 | 📊 CGPA: 8.97
 
 ---
 
