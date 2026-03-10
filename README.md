@@ -74,7 +74,6 @@ Image classification project using Python and ML models to accurately identify d
 
 📍 Bengaluru, India  
 📧 kiniramnath21@gmail.com  
-📞 +91 63637 93948  
 🔗 [LinkedIn](https://linkedin.com/in/k-ramanath)  
 💻 [LeetCode](https://leetcode.com/u/kiniramnath21/)
 
