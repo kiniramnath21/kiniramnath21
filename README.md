@@ -31,7 +31,7 @@
 Developed a Python + Streamlit web app that forecasts ice cream sales based on temperature and seasonal trends. Includes regression modeling, visualization, and interactive UI.
 
 #### ❤️ [Heart Disease Prediction](https://github.com/kiniramnath21/Heart-Disease-Prediction)  
-Built an end-to-end Machine Learning pipeline to predict heart disease risk using the BRFSS 2015 dataset (253k+ records). Performed comprehensive EDA, handled class imbalance using stratified splitting and class weighting, implemented Logistic Regression with hyperparameter tuning (GridSearchCV), applied threshold optimization to improve recall for high-risk patients, and persisted the trained model for production inference. Compared performance with Random Forest classifier.
+Built an end-to-end ML pipeline to predict heart disease using the BRFSS dataset (253k records). Performed EDA, handled class imbalance, trained Logistic Regression with GridSearchCV, applied threshold tuning to improve recall, and compared performance with Random Forest.
 
 #### 📊 [Student Performance Tracker](https://github.com/kiniramnath21/Student-Performance-Tracker-Java)  
 Created a Java console-based system to manage students, courses, and grades. Integrated MySQL for persistent storage, supporting full CRUD operations and automated performance reports.
