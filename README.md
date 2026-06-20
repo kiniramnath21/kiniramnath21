@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Pursuing B.E. in Information Science at Nitte Meenakshi Institute of Technology (2022–2026)
+- 🎓 B.E. in Information Science from Nitte Meenakshi Institute of Technology (2022–2026)
 - ❤️ Passionate about Machine Learning, Software Development, and Cloud Computing
 - 🔧 Strong in Java, Python
 - 📌 Currently working on:
@@ -66,7 +66,7 @@ Image classification project using Python and ML models to accurately identify d
 
 **Nitte Meenakshi Institute of Technology, Bengaluru**  
 *B.E. in Information Science and Engineering*  
-📅 2022–2026 | 📊 CGPA: 8.97
+📅 2022–2026 | 📊 CGPA: 9.08
 
 ---
 
