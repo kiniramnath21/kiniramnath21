@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm K Ramanath 👋</h1>
-<h3 align="center">Information Science & Engineering Student | ML & Cloud Enthusiast</h3>
+<h3 align="center">Information Science & Engineering Graduate | ML & Cloud Enthusiast</h3>
 
 ---
 
